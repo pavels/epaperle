@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name GDE021A1)(type Legacy)(uri ${KIPRJMOD}/lib/GDE021A1.lib)(options "")(descr ""))
+  (lib (name bat54s)(type Legacy)(uri ${KIPRJMOD}/lib/bat54s.lib)(options "")(descr ""))
+  (lib (name bluegiga)(type Legacy)(uri ${KIPRJMOD}/lib/bluegiga.lib)(options "")(descr ""))
+  (lib (name TMP75)(type Legacy)(uri ${KIPRJMOD}/lib/TMP75.lib)(options "")(descr ""))
+)

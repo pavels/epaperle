@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name bluegiga)(type KiCad)(uri ${KIPRJMOD}/mod/bluegiga.pretty)(options "")(descr ""))
+  (lib (name Fpc)(type KiCad)(uri ${KIPRJMOD}/mod/fpc)(options "")(descr ""))
+  (lib (name Inductors)(type KiCad)(uri ${KIPRJMOD}/mod/inductors)(options "")(descr ""))
+  (lib (name smd_pads_array)(type Legacy)(uri ${KIPRJMOD}/mod/pads-array.mod)(options "")(descr ""))
+  (lib (name bathold)(type KiCad)(uri "$(KIPRJMOD)/mod/bathold")(options "")(descr ""))
+)
